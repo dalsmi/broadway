@@ -1,0 +1,39 @@
+*{
+  text-align: center;
+  font-family: helvetica;
+}
+
+.topheader h1 {
+    font-size: 70px;
+    color: red;
+}
+.topheader {
+  background-image: url("resources/images/theflatironbuilding.jpg");
+}
+
+.topheader h3 {
+    font-size: 18px;
+    color: blue;
+}
+
+#process h2{
+  font-size: 32px;
+  font-weight: bold;
+}
+
+#process h3 {
+  font-size: 32px;
+  font-weight: bold;
+}
+
+#process p{
+  font-size: 14px;
+  font-weight: bold;
+}
+
+#designed h2 {
+  font-size: 23px;
+  font-weight: bold;
+  color: white;
+  background-image: url("resources/images/theflatironbuilding.jpg");
+}
